@@ -1,0 +1,59 @@
+body {
+    font-family: 'Roboto', Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.jumbotron {
+    background-color: #f8f9fa;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 0.3rem;
+}
+
+h1, h2, h3 {
+    color: #2c3e50;
+    margin-bottom: 1rem;
+}
+
+.btn-primary {
+    background-color: #3498db;
+    border-color: #3498db;
+}
+
+.btn-primary:hover {
+    background-color: #2980b9;
+    border-color: #2980b9;
+}
+
+footer {
+    margin-top: 3rem;
+}
+
+/* Custom styles for specific elements */
+.service-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.service-list li {
+    margin-bottom: 0.5rem;
+}
+
+.contact-info {
+    background-color: #f8f9fa;
+    padding: 1rem;
+    border-radius: 0.3rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .jumbotron {
+        padding: 1rem;
+    }
+}

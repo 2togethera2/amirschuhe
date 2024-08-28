@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://www.amir-schuhe.de/</loc>
+    <lastmod>2024-08-27T12:00:00+02:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.amir-schuhe.de/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.amir-schuhe.de/en/"/>
+    <image:image>
+      <image:loc>https://www.amir-schuhe.de/images/logo.jpg</image:loc>
+      <image:caption>Amir Schuhe Logo</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.amir-schuhe.de/products.html</loc>
+    <lastmod>2024-08-27T10:30:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://www.amir-schuhe.de/videos/product-overview-thumb.jpg</video:thumbnail_loc>
+      <video:title>Обзор нашей продукции</video:title>
+      <video:description>Краткий видеообзор ассортимента обуви Amir Schuhe</video:description>
+      <video:content_loc>https://www.amir-schuhe.de/videos/product-overview.mp4</video:content_loc>
+      <video:duration>120</video:duration>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://www.amir-schuhe.de/about.html</loc>
+    <lastmod>2024-08-27T09:15:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.amir-schuhe.de/contact.html</loc>
+    <lastmod>2024-08-27T11:45:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+</urlset>
